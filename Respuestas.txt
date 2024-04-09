@@ -1,0 +1,5 @@
+Punto 2-f)
+Q: ¿Puede ver el archivo tp2_1_2.c? ¿Por qué? 
+A: No, solo puedo ver README.md y tp2_1_1.c. Pues estan en otra rama y por ende 
+en otro repositorio.
+
